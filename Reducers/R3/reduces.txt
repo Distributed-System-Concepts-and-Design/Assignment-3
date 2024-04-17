@@ -1,0 +1,10 @@
+Reducer ID 3 completed shuffle and sort for reducer 3
+Centriods Returned [centroidId: 3
+x: 23.860377777777774
+y: 74.243144444444454
+]
+Reducer ID 3 completed shuffle and sort for reducer 3
+Centriods Returned [centroidId: 3
+x: 23.860377777777774
+y: 74.243144444444454
+]

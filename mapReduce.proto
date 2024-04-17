@@ -1,0 +1,52 @@
+syntax = "proto3";
+
+package mapreduce;
+
+// Combined service for all interactions
+service MapReduceService {
+    rpc ProcessMap(MapRequest) returns (MapResponse) {}
+    rpc ProcessReduce(ReduceRequest) returns (ReduceResponse) {}
+    rpc RetrieveMapPairs(MapPairsRequest) returns (MapPairsResponse) {}
+}
+
+message MapRequest {
+    int32 startIdx = 1;
+    int32 endIdx = 2;
+    int32 iterNum = 3;
+    int32 reducers = 4;
+    int32 mapperID = 5;
+    repeated double centroids_x = 6;
+    repeated double centroids_y = 7;
+}
+
+message MapResponse {
+    string status = 1;
+}
+
+message ReduceRequest {
+    int32 iterNum = 1;
+    int32 reducerId = 2;
+    int32 targetReducerId = 3; // Assuming 'work_reducer_id' is meant for targeted operations.
+    int32 mappers = 4;
+}
+
+message ReduceResponse {
+    repeated Pair pairs = 1;
+    string status = 2;
+}
+
+message MapPairsRequest {
+    int32 reducerId = 1;
+    int32 mapperId = 2;
+}
+
+message MapPairsResponse {
+    repeated Pair pairs = 1;
+}
+
+message Pair {
+    int32 centroidId = 1;
+    double x = 2;
+    double y = 3;
+}
+

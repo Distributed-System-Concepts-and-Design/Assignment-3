@@ -1,0 +1,6 @@
+{
+    "numMappers": 3,
+    "numReducers": 3,
+    "numIterations": 10,
+    "numCentroids": 3
+}
