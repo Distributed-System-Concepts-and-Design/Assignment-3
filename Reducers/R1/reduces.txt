@@ -8,3 +8,19 @@ Centriods Returned [centroidId: 1
 x: 15.070580000000001
 y: 33.6109
 ]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 3
+x: 2.489
+y: 15.868549999999999
+, centroidId: 1
+x: 23.75985833333333
+y: 67.042141666666666
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 3
+x: 2.489
+y: 15.868549999999999
+, centroidId: 1
+x: 23.75985833333333
+y: 67.042141666666666
+]

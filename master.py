@@ -26,8 +26,12 @@ class VariablesContainer:
                 self.data_points.append((float(x), float(y)))
 
 def initialize_cluster_centroids(data_points, num_centroids, cluster_centroids):
+    # initialize the centroids randomly
     for i in range(num_centroids):
-        cluster_centroids.append([data_points[i][0], data_points[i][1]])
+        cluster_centroids.append([random.uniform(0, 100), random.uniform(0, 100)])
+
+    # for i in range(num_centroids):
+    #     cluster_centroids.append([data_points[i][0], data_points[i][1]])
 
 def connect_to_mapper(variables, mapper_id):
     mapper_addr = "localhost:" + str(variables.mapper_ports[mapper_id])
