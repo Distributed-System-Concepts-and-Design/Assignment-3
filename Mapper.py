@@ -1,3 +1,4 @@
+import sys
 import grpc
 import mapReduce_pb2
 import mapReduce_pb2_grpc
@@ -64,7 +65,7 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
     def parter(self, assignments, num_reducers, mapper_id, iter_num):
         print("Inside parter")
         for i in range(num_reducers):
-            file_path = "Mappers/" + "M" + str(mapper_id) + "/R" + str(i+1)+".txt"
+            file_path = "Mappers/" + "M" + str(mapper_id) + "/partition_" + str(i+1)+".txt"
             if not os.path.exists(file_path):
                 # if directory does noot exist create it
                 if not os.path.exists(file_path):                    
@@ -84,7 +85,7 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
                     temp_file.close()
         for centroid_id in assignments.keys():
             temp_file_id = (centroid_id-1) % num_reducers
-            file_path = "Mappers/" + "M" + str(mapper_id) + "/R" + str(temp_file_id+1)+".txt"
+            file_path = "Mappers/" + "M" + str(mapper_id) + "/partition_" + str(temp_file_id+1)+".txt"
             temp_file = open(file_path, "a")
             for assignment in assignments[centroid_id]:
                 temp_file.write("%d, %.4f, %.4f\n" % (centroid_id, assignment[0], assignment[1]))
@@ -105,11 +106,35 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
         return points
 
 def serve():
-    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
-    mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(MasterMapper(), server)
-    server.add_insecure_port('[::]:50052')
-    server.start()
-    server.wait_for_termination()
+    try:
+        Reducer_IDs = {}
+        Mapper_IDs = {}
+        self_id = sys.argv[1]
+        
+        with open("Config.conf", "r") as file:
+            for line in file:
+                id, _, port = line.strip().split()
+                if 'R' in id:
+                    Reducer_IDs[id] = port
+                else:
+                    Mapper_IDs[id] = port
+        
+        # get self port
+        port = Mapper_IDs[self_id]
+
+    except Exception as e:
+        print("Invalid ID read from Config.conf!")
+        return
+    
+    try:
+        server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
+        mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(MasterMapper(), server)
+        server.add_insecure_port('[::]:'+port)
+        server.start()
+        server.wait_for_termination()
+    except KeyboardInterrupt:
+        print(f"Mapper {id} Stopped!")
+
 
 if __name__ == '__main__':
     serve()

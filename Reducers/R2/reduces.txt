@@ -1,0 +1,4 @@
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned []
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned []

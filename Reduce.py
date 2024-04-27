@@ -1,4 +1,5 @@
 import os
+import sys
 import grpc
 import mapReduce_pb2
 import mapReduce_pb2_grpc
@@ -78,11 +79,35 @@ class Reducer(mapReduce_pb2_grpc.MapReduceServiceServicer):
         
 
 def serve():
-    server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
-    mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(Reducer(), server)
-    server.add_insecure_port('[::]:50061')
-    server.start()
-    server.wait_for_termination()
+    try:
+        Reducer_IDs = {}
+        Mapper_IDs = {}
+        self_id = sys.argv[1]
+        
+        with open("Config.conf", "r") as file:
+            for line in file:
+                id, _, port = line.strip().split()
+                if 'R' in id:
+                    Reducer_IDs[id] = port
+                else:
+                    Mapper_IDs[id] = port
+        
+        # get self port
+        port = Reducer_IDs[self_id]
+
+    except Exception as e:
+        print("Invalid ID read from Config.conf!")
+        return
+
+    try:
+        server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
+        mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(Reducer(), server)
+        server.add_insecure_port('[::]:'+port)
+        server.start()
+        server.wait_for_termination()
+        
+    except KeyboardInterrupt:
+        print(f"Reducer {id} Stopped!")
 
 if __name__ == '__main__':
     serve()
