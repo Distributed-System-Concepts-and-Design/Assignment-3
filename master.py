@@ -57,7 +57,7 @@ def run_mapper(variables, start_index, end_index, iteration_num, mapper_id, num_
             )
         )
         result_queue.put((mapper_id,start_index, end_index, response.status == "Completed"))
-        print(f"Mapper {mapper_id} completed.")
+        print(f"Mapper {mapper_id} {response.status}.")
     except Exception as e:
         result_queue.put((mapper_id,start_index, end_index, False))
 
@@ -98,6 +98,7 @@ def run_reducer(variables, iteration_num, reducer_id, target_reducer_id, num_map
         process_reduce_response(variables, response, target_reducer_id, reducer_id, result_queue)
         print("Outside",reducer_id,response.status)
     except Exception as e:
+        print(f"Reducer {reducer_id} Failed")
         result_queue.put((target_reducer_id, reducer_id,  0))
 
 def run_parallel_mappers(variables, num_mappers, num_reducers, iteration_num, mapper_index_slice):

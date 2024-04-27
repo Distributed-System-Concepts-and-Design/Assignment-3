@@ -63,6 +63,9 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
         for i in range(num_reducers):
             file_path = "Mappers/" + "M" + str(mapper_id) + "/R" + str(i+1)+".txt"
             if not os.path.exists(file_path):
+                # if directory does noot exist create it
+                if not os.path.exists(file_path):                    
+                    os.makedirs(os.path.dirname(file_path), exist_ok=True)
                 temp_file = open(file_path, "w")
                 temp_file.write(str(iter_num) + "\n")
                 temp_file.close()
