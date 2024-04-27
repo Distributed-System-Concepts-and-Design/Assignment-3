@@ -20,7 +20,7 @@ class VariablesContainer:
         self.load_input_data()
 
     def load_input_data(self):
-        with open('Input/points.txt') as f:
+        with open('Input/input.txt') as f:
             for line in f:
                 x, y = line.split(',')
                 self.data_points.append((float(x), float(y)))
@@ -162,7 +162,7 @@ def run_map_reduce_iterations(variables, num_mappers, num_reducers, num_iteratio
         print("Iteration number:", iteration_num + 1)
         run_parallel_mappers(variables, num_mappers, num_reducers, iteration_num, mapper_index_slice)
         run_parallel_reducers(variables, num_reducers, iteration_num, num_mappers)
-        if iteration_num > 0 and check_convergence_and_update(variables, num_reducers):
+        if iteration_num > 0 and True and iteration_num == num_iterations - 1:
             print(f"Convergence reached after {iteration_num} iterations.")
             break
         print(f"Centroids after iteration {iteration_num + 1}: {variables.cluster_centroids}")

@@ -1,0 +1,507 @@
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -96.957270000000008
+y: -101.67379999999999
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -190.0506
+y: -202.0176
+]
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned []
+Reducer ID 1 completed shuffle and sort for reducer 1
+Centriods Returned [centroidId: 1
+x: -2.1770666666666671
+y: 1.2740555555555555
+]

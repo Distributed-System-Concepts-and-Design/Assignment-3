@@ -38,7 +38,7 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
         centroids_x = request.centroids_x
         centroids_y = request.centroids_y
 
-        points = self.read_points_from_file('Input/points.txt')
+        points = self.read_points_from_file('Input/input.txt')
         try:
             assignments = {}
 

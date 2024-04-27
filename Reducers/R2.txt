@@ -1,0 +1,510 @@
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: 192.9001
+y: 203.06289999999998
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: -96.957270000000008
+y: -101.67379999999999
+]
+Reducer ID 2 completed shuffle and sort for reducer 2
+Centriods Returned [centroidId: 2
+x: -174.5047090909091
+y: -185.90386363636361
+]
