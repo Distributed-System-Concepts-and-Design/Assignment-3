@@ -64,7 +64,7 @@ class Reducer(mapReduce_pb2_grpc.MapReduceServiceServicer):
             dump_2 = "Centriods Returned "+str(ret_pairs)
             print("Reducer ID {} completed shuffle and sort for reducer {}".format(reducer_id, target_reducer_id))
             print("Centriods Returned",ret_pairs)
-            file_name="Reducers/R"+str(reducer_id)+"/reduces.txt"
+            file_name="Reducers/R"+str(reducer_id)+".txt"
             if not os.path.exists(file_name):
                 # create directory
                 os.makedirs(os.path.dirname(file_name), exist_ok=True)
@@ -100,6 +100,7 @@ def serve():
         return
 
     try:
+        print("Port:", port)
         server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
         mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(Reducer(), server)
         server.add_insecure_port('[::]:'+port)

@@ -13,7 +13,7 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
         mapper_id = request.mapperId
         print("mapper id is", mapper_id)
         print("reducer id is", reducer_id)
-        temp_file_path = "Mappers/" + "M" + str(mapper_id) + "/R" + str(reducer_id)+".txt"
+        temp_file_path = "Mappers/" + "M" + str(mapper_id) + "/partition_" + str(reducer_id)+".txt"
         if not os.path.exists(temp_file_path):
             return mapReduce_pb2.MapPairsResponse(pairs=[])
         else:
@@ -127,6 +127,7 @@ def serve():
         return
     
     try:
+        print(port)
         server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
         mapReduce_pb2_grpc.add_MapReduceServiceServicer_to_server(MasterMapper(), server)
         server.add_insecure_port('[::]:'+port)
