@@ -55,11 +55,14 @@ class MasterMapper(mapReduce_pb2_grpc.MapReduceServiceServicer):
                 assignments[int(closest_centroid)].append(tmp_tuple)
 
             self.parter(assignments, num_reducers, mapper_id, iter_num)
+            print("Sending Completed status back.")
             return mapReduce_pb2.MapResponse(status="Completed")
         except Exception as e:
+            print(e)
             return mapReduce_pb2.MapResponse(status="Failed")
 
     def parter(self, assignments, num_reducers, mapper_id, iter_num):
+        print("Inside parter")
         for i in range(num_reducers):
             file_path = "Mappers/" + "M" + str(mapper_id) + "/R" + str(i+1)+".txt"
             if not os.path.exists(file_path):

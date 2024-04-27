@@ -1,26 +1,26 @@
 Reducer ID 1 completed shuffle and sort for reducer 1
-Centriods Returned [centroidId: 3
-x: 2.489
-y: 15.868549999999999
-, centroidId: 1
-x: 25.521676923076924
-y: 65.157115384615366
+Centriods Returned [centroidId: 1
+x: 84.049475
+y: 39.74965
+, centroidId: 3
+x: 48.032900000000005
+y: 63.414024999999995
 ]
 Reducer ID 1 completed shuffle and sort for reducer 2
 Centriods Returned [centroidId: 2
-x: 80.42452
-y: 42.03826
+x: 17.546075
+y: 56.359683333333329
 ]
 Reducer ID 1 completed shuffle and sort for reducer 1
-Centriods Returned [centroidId: 3
-x: 2.489
-y: 15.868549999999999
-, centroidId: 1
-x: 25.521676923076924
-y: 65.157115384615366
+Centriods Returned [centroidId: 1
+x: 80.42452
+y: 42.03826
+, centroidId: 3
+x: 42.068966666666661
+y: 67.4878
 ]
 Reducer ID 1 completed shuffle and sort for reducer 2
 Centriods Returned [centroidId: 2
-x: 80.42452
-y: 42.03826
+x: 17.546075
+y: 56.359683333333329
 ]

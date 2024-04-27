@@ -1,3 +1,4 @@
+import os
 import grpc
 import mapReduce_pb2
 import mapReduce_pb2_grpc
@@ -63,6 +64,9 @@ class Reducer(mapReduce_pb2_grpc.MapReduceServiceServicer):
             print("Reducer ID {} completed shuffle and sort for reducer {}".format(reducer_id, target_reducer_id))
             print("Centriods Returned",ret_pairs)
             file_name="Reducers/R"+str(reducer_id)+"/reduces.txt"
+            if not os.path.exists(file_name):
+                # create directory
+                os.makedirs(os.path.dirname(file_name), exist_ok=True)
             temp_file = open(file_name, "a")
             temp_file.write(dump_1)
             temp_file.write("\n")
